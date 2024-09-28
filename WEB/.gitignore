@@ -1,0 +1,22 @@
+# General
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Aa]rm/
+[Aa]rm64/
+
+# NuGet Package Manager
+packages/
+
+# Rider
+.idea/
