@@ -1,0 +1,20 @@
+Laptop
+Smartphone
+Headphones
+Tablet
+Camera
+Smartwatch
+Television
+Gaming Console
+Printer
+Monitor
+Keyboard
+Mouse
+External Hard Drive
+USB Flash Drive
+Router
+Bluetooth Speaker
+Coffee Machine
+Microwave Oven
+Refrigerator
+Washing Machine
